@@ -1,7 +1,7 @@
 # This repository is a portfolio of my past machine learning records.
 
 ---
-##
+## chip-segment
 This directory uses the library segmentation-models-pytorch to perform chip segmentation.
 
 ## mnist_num
