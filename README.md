@@ -18,3 +18,6 @@ It learns images of a dog and a cat on Kaggle's dataset and judges each of them.
 
 ## horse_01.py
 Scraping past race data from sites that post horse race results, I use scikit-learn and Pytorch's NN model to predict race results.
+
+## simple_sklearn.ipynb
+Summarizes sklearn usage and model features using various models and datasets
