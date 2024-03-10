@@ -1,0 +1,4 @@
+train: ./datasets/YOLODataset/images/train/
+val: ./datasets/YOLODataset/images/val/
+nc: 2
+names: ["seed", "nuts"]
