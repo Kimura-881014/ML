@@ -1,3 +1,4 @@
+path: /content/drive/MyDrive/ML/YOLO/  # dataset root dir
 train: ./datasets/YOLODataset/images/train/
 val: ./datasets/YOLODataset/images/val/
 nc: 2
